@@ -1,6 +1,5 @@
 """
 Assignment 1: Opening Lines
-Submitted by Jennifer Barr
 Submitted:  September 29, 2023
 
 Assignment 1: This program demonstrates printing lines of text to the screen
